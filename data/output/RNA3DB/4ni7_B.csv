@@ -1,0 +1,5 @@
+,RMSD,P-VALUE,INF-ALL,INF-WC,INF-NWC,INF-STACK,DI,MCQ,TM-score,CAD,BARNABA-RMSD,BARNABA-eRMSD,BARNABA-eSCORE,CLASH,GDT-TS,GDT-TS@1,GDT-TS@2,GDT-TS@4,GDT-TS@8,lDDT
+normalized_rhofold_4ni7_b.pdb,,,0.243,,,0.344,,,0.109,,,,0.142,0.0,0.233,0.133,0.2,0.267,0.333,0.234
+normalized_rnacomposer_4ni7_b.pdb,,,0.155,0.0,0.0,0.257,,,0.109,,,,0.247,0.0,0.208,0.133,0.167,0.233,0.3,0.249
+normalized_alphafold3_4ni7_b.pdb,,,0.254,0.0,,0.416,,,0.135,,,,0.419,0.0,0.267,0.167,0.233,0.3,0.367,0.34
+normalized_rnajp_4ni7_b.pdb,,,0.154,0.0,0.0,0.258,,,0.122,,,,2.05,0.0,0.292,0.167,0.267,0.333,0.4,0.165

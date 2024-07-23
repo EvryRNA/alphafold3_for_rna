@@ -87,9 +87,9 @@ It will save the plots in the `data/plots` folder.
 
 You will find some of the following plots:
 
-Bar chart       |  nWC plot | Polar plot | Scatter plot
-:-------------------------:|:-------------------------:
-![](data/plots/bar/RNA-Puzzles.png) | ![](data/plots/nwc/INF-WC_INF-NWC_by_RMSD.png) | ![](data/plots/polar/all_inf_interactions.png) | ![](data/plots/scatter/main_metrics_vs_seq_len.png)
+Bar chart       |  nWC plot |                   Polar plot                   | Scatter plot
+:---:|:---:|:---:|:---:|
+![](data/plots/bar/RNA-Puzzles.png) | ![](data/plots/nwc/INF-WC_INF-NWC_by_RMSD.png) | ![](data/plots/polar/all_inf_interactions.png) | ![](data/plots/scatter/main_metrics_vs_seq_len.png) | 
 
 
 ## Citation

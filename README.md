@@ -27,6 +27,16 @@ This repository is the source code for the visualisations of the article named: 
 
 ![AlphaFold 3 for RNA](data/plots/img/graphical_abstract.png)
 
+## Folder
+
+You will find the following folders:
+- `data`: contains the data used for the visualisation
+  - `output`: contains the metrics computed for each prediction
+  - `plots`: contains the plots generated for the visualisation
+  - `pdb`: contains the structures predicted by AlphaFold 3. Should be downloaded at this [link](https://drive.google.com/file/d/1OR7Gol0hjB-CfyR9DpzCa8mHq81miW5Q/view?usp=sharing). 
+- `src`: contains the source code for the visualisation
+- `Makefile`: file with the main commands summarized
+- `requirements.txt`: file with the required libraries
 
 ## Installation
 
@@ -74,6 +84,13 @@ make viz_alphafold
 ```
 
 It will save the plots in the `data/plots` folder.
+
+You will find some of the following plots:
+
+Bar chart       |  nWC plot | Polar plot | Scatter plot
+:-------------------------:|:-------------------------:
+![](data/plots/bar/RNA-Puzzles.png) | ![](data/plots/nwc/INF-WC_INF-NWC_by_RMSD.png) | ![](data/plots/polar/all_inf_interactions.png) | ![](data/plots/scatter/main_metrics_vs_seq_len.png)
+
 
 ## Citation
 

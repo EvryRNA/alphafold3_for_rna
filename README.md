@@ -23,7 +23,7 @@ This repository is the source code for the visualisations of [AlphaFold 3 benchm
 
 # AlphaFold 3 for RNAs benchmark
 
-This repository is the source code for the visualisations of the article named: `Has AlphaFold 3 reached its success for RNAs?`
+This repository is the source code for the visualisations of the article named: [`Has AlphaFold 3 reached its success for RNAs?`](https://www.biorxiv.org/content/10.1101/2024.06.13.598780v2)
 
 ![AlphaFold 3 for RNA](data/plots/img/graphical_abstract.png)
 

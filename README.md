@@ -42,8 +42,8 @@ conda activate af3
 
 ## Data
 
-<div style="text-align: center;">
-  <img src="data/paper/example_structure.gif" alt="Example Structure" width="300">
+<div align="center">
+<img src="data/paper/example_structure.gif" alt="Example Structure" width="300">
 </div>
 
 

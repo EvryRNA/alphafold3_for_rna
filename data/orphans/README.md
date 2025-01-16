@@ -2,6 +2,8 @@
 
 This folder contains the raw structures used for the RNA3DB_0 with context dataset. 
 
+You can download it at this [link](https://drive.google.com/file/d/1JlXJ0G0H7YcXIEh_9LEmhBSkoaeuqg_1/view?usp=sharing). 
+
 You can find:
 
 - `af3_context_alone`: the extracted structures from the AlphaFold 3 predictions (from the context structures).

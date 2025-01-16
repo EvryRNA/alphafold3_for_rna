@@ -42,7 +42,10 @@ conda activate af3
 
 ## Data
 
-![](data/paper/example_structure.gif)
+<div style="text-align: center;">
+  <img src="data/paper/example_structure.gif" alt="Example Structure" width="300">
+</div>
+
 
 To get all the `.pdb` files, you have to unzip the [pdb folder](https://drive.google.com/file/d/1xGc9eBM4SYE4UnMI04n6EOa82lfVIjL7/view?usp=sharing).
 If you need the original structures for the `RNA3DB_0` dataset (with the context), you can download them [here](https://drive.google.com/file/d/1JlXJ0G0H7YcXIEh_9LEmhBSkoaeuqg_1/view?usp=sharing).

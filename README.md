@@ -153,23 +153,26 @@ This project is licensed under the Apache 2.0 License.
 If you use this code, please cite the following paper:
 
 ```
-Has AlphaFold 3 reached its success for RNAs?
-Clement Bernard, Guillaume Postic, Sahar Ghannay, Fariza Tahi
-bioRxiv 2024.06.13.598780; 
-doi: https://doi.org/10.1101/2024.06.13.598780
+Clément Bernard, Guillaume Postic, Sahar Ghannay, Fariza Tahi.
+"Has AlphaFold3 achieved success for RNA?"
+Acta Crystallographica Section D. 2025. Vol. 81, No. 2.
+https://doi.org/10.1107/S2059798325000592
 ```
 
 Or using the bibtex format:
 
 ```bibtex
-@article{Bernard2024,
-  author = {Clement Bernard and Guillaume Postic and Sahar Ghannay and Fariza Tahi},
-  title = {Has AlphaFold 3 reached its success for RNAs?},
-  year = {2024},
-  journal = {bioRxiv},
-  doi = {10.1101/2024.06.13.598780},
-  note = {Preprint},
-  url = {https://doi.org/10.1101/2024.06.13.598780}
+@article{af3_for_rnas,
+  author = "Bernard, Cl{\'{e}}ment and Postic, Guillaume and Ghannay, Sahar and Tahi, Fariza",
+  title = "{Has {\it AlphaFold}3 achieved success for RNA?}",
+  journal = "Acta Crystallographica Section D",
+  year = "2025",
+  volume = "81",
+  number = "2",
+  pages = "",
+  month = "Feb",
+  doi = {10.1107/S2059798325000592},
+  url = {https://doi.org/10.1107/S2059798325000592},
 }
 ```
 
